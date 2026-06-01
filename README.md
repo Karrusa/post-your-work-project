@@ -3,7 +3,7 @@
 
 # Project Title
 
-Describe what your project is about and what it does
+Bileshare project in NY
 
 ## Information about how to use your project
 
@@ -24,4 +24,4 @@ It's important to give proper credit. Add links to any repo that inspired you or
 
 ## Date created
 
-Include the date you created this project and README file.
+01.06.2026
