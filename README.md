@@ -3,13 +3,11 @@
 
 # Project Title
 
-<<<<<<< HEAD
-Bikeshare project in NY city
-||||||| parent of a61f42c (Update README documentation)
-Describe what your project is about and what it does
-=======
-Bikeshare
->>>>>>> a61f42c (Update README documentation)
+## Biskeshare
+Bikeshare project in my city.
+
+This project simulates or manages a bikeshare system. It allows users to understand how bike-sharing works, including renting bikes, tracking usage, and managing stations.
+
 
 ## Information about how to use your project
 
@@ -30,10 +28,5 @@ Credits to the Tutor
 
 ## Date created
 
-<<<<<<< HEAD
 01.06.2026
-||||||| parent of a61f42c (Update README documentation)
-Include the date you created this project and README file.
-=======
-01.06.2026
->>>>>>> a61f42c (Update README documentation)
+
