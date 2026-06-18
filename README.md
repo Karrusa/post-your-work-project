@@ -4,7 +4,7 @@
 # Project Title
 
 ## Biskeshare
-Bikeshare project in my city.
+Bikeshare project in NY city.
 
 This project simulates or manages a bikeshare system. It allows users to understand how bike-sharing works, including renting bikes, tracking usage, and managing stations.
 
